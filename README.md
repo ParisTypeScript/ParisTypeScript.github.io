@@ -24,8 +24,11 @@ Raw sources [here](img/)
 
 <hr>
 
-Logo 1000x1000 PNG
+Logo
 ![logo](img/logo.png)
+
+Logo no text
+![logo](img/logo-no-text.png)
 
 Round Logo
 ![round-logo](img/logo-round.png)
