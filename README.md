@@ -36,3 +36,11 @@ Round Logo negative
 ## Code of Conduct
 
 [CoC](CODE_OF_CONDUCT.md)
+
+## Licence
+
+[MIT](LICENCE)
+
+## Logo
+
+Effeil tower image by [http://buysellgraphic.com/](https://all-free-download.com/free-vector/download/eiffel-tower_312253.html)
